@@ -18,7 +18,8 @@ Project Structure
         │       ├── 46145785bf85_added_account_table.py
         └── models.py [MODELS FOR WHICH WE WANT TO AUTOGENERATE MIGRATIONS]
 
-Changes done has been described below
+
+# Changes done has been described below
 
 # alembic.ini
 
